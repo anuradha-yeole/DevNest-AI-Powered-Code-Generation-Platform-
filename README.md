@@ -24,11 +24,6 @@ DevNest is an all-in-one application for developers, offering tools for converti
 
 
 
-### Chatbot
-[![Watch the video](https://img.youtube.com/vi/2n8x51gOu6g/0.jpg)](https://youtu.be/2n8x51gOu6g)
-
-
-
 ---
 
 ## Features
