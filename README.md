@@ -18,7 +18,11 @@ DevNest is an all-in-one application for developers, offering tools for converti
 ## Video Demonstration
 
 ### Web Application
-[![Watch the video](https://img.youtube.com/vi/anrZWqtSyac/0.jpg)](https://www.youtube.com/watch?v=anrZWqtSyac)
+<a href="https://drive.google.com/file/d/1um0PeApYFB8slvVJoz2jxyrW6NE3vkKU/view?usp=sharing">
+  <img src="./assets/demo_thumbnail.png" width="600" alt="Watch the demo video">
+</a>
+
+
 
 ### Chatbot
 [![Watch the video](https://img.youtube.com/vi/2n8x51gOu6g/0.jpg)](https://youtu.be/2n8x51gOu6g)
